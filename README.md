@@ -1,5 +1,5 @@
-# PROJETO DE ENCERRAMENTO DE RESIDÊNCIA#
-# DISPOSITIVO IoT PARA MONITORAMENTO HOSPITALAR E ASSISTÊNCIA AO LEITO# 
+# PROJETO DE ENCERRAMENTO DE RESIDÊNCIA
+# DISPOSITIVO IoT PARA MONITORAMENTO HOSPITALAR E ASSISTÊNCIA AO LEITO 
 
 ## 1. O Problema
 Sou Diretor de Inovação e Enfermagem de um hospital de alta complexidade. Um dos nossos maiores desafios é otimizar o tempo de resposta das equipes médicas em casos de intercorrências nas enfermarias e melhorar o conforto dos pacientes internados. O método atual de "botão de chamada de enfermeira" padrão é limitado, pois não diz à central qual é a gravidade da situação antes de o profissional se deslocar até o quarto. Além disso, pacientes acamados dependem constantemente de técnicos de enfermagem para ajustar manualmente o ângulo e a inclinação da cama (via manivela física) para evitar lesões por pressão (escaras) ou melhorar o conforto.
